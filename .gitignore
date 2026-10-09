@@ -1,2 +1,3 @@
 testvenv/
-students_day18.db
+.venv/
+*.db
